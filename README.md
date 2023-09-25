@@ -7,6 +7,18 @@ Create a local `.env.local` file and paste it with the name `NEXT_PUBLIC_GH_TOKE
 NEXT_PUBLIC_GH_TOKEN=generated-token
 ```
 
+Install dependencies:
+
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+# or
+bun install
+```
+
 Run the development server:
 
 ```bash
